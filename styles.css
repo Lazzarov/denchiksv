@@ -8,7 +8,7 @@ body{
 }
 
 a {
-    color: #0f141e;
+    color: #4b85f9;
     text-decoration: none;
 }
 
@@ -30,7 +30,7 @@ a:active{
 
 
 a:visited{
-    color: rgb(66, 129, 247);
+    color: rgb(53, 53, 53);
 }
 
 .info p{
